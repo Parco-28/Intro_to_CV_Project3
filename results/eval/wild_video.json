@@ -1,0 +1,32 @@
+{
+  "part1": {
+    "psnr_mean": 26.053009968605124,
+    "psnr_std": 4.943666073255636,
+    "ssim_mean": 0.9300256876178884,
+    "ssim_std": 0.03441634531342756,
+    "psnr_masked_mean": 0.0,
+    "psnr_masked_std": 0.0,
+    "ssim_masked_mean": 0.0,
+    "ssim_masked_std": 0.0
+  },
+  "part2": {
+    "psnr_mean": 25.10621447019752,
+    "psnr_std": 5.222645280130066,
+    "ssim_mean": 0.932181871147449,
+    "ssim_std": 0.028997537294430477,
+    "psnr_masked_mean": 0.0,
+    "psnr_masked_std": 0.0,
+    "ssim_masked_mean": 0.0,
+    "ssim_masked_std": 0.0
+  },
+  "part3": {
+    "psnr_mean": 30.026959275129094,
+    "psnr_std": 4.1794820702563955,
+    "ssim_mean": 0.9442646098649153,
+    "ssim_std": 0.024333296097367466,
+    "psnr_masked_mean": 0.0,
+    "psnr_masked_std": 0.0,
+    "ssim_masked_mean": 0.0,
+    "ssim_masked_std": 0.0
+  }
+}

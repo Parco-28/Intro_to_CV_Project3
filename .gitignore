@@ -7,7 +7,7 @@ __pycache__/
 
 # Local datasets and generated results
 data/
-results/
+results/part*/
 videos.zip
 
 # External repos / model weights
