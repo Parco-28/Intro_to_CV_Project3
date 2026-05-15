@@ -184,7 +184,7 @@ third_party/           # 外部仓库（SAM 2、ProPainter）
 
 ## 提交前提醒
 
-1. 替换 `report/main.tex` 中的作者信息和 GitHub 链接。
-2. 打包必做视频为 `videos.zip`。
-3. 不要提交 `.venv/`、完整 `data/`、大模型缓存。
-4. 保留 `report/main.pdf`、关键对比图、清晰的运行说明。
+1. 打包必做视频为 `videos.zip`（已完成，36.6 MB，24 个 mp4）。
+2. 不要提交 `.venv/`、完整 `data/`、大模型缓存。
+3. 保留 `report/main.pdf`、关键对比图、清晰的运行说明。
+4. GitHub repo: https://github.com/Parco-28/Intro_to_CV_Project3

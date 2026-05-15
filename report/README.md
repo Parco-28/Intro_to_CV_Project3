@@ -97,7 +97,6 @@ If strict 17-reference output is required, remove extra citations from `main.tex
 
 ## Notes Before Submission
 
-- Replace placeholder author names/emails in `main.tex`.
-- Replace placeholder GitHub URL in the abstract.
 - Recompile after any change to citations or figures.
 - Temporary files (`main.aux`, `main.bbl`, `main.blg`, `main.log`) can be deleted and regenerated.
+- Author info and GitHub URL are already filled in `main.tex`.

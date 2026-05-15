@@ -137,14 +137,9 @@ Report includes:
 
 Before final Canvas/GitHub submission:
 
-1. Replace placeholder author names and emails in `report/main.tex`.
-2. Replace placeholder GitHub URL in abstract.
-3. Pack mandatory processed videos into `videos.zip`:
-   - `bmx-trees` Part 1/2/3
-   - `tennis` Part 1/2/3
-   - `wild_video` Part 1/2/3
-4. Ensure `.venv/`, full `data/`, large checkpoints, and temporary LaTeX files are not committed.
-5. Push code to a public GitHub repository.
+1. Pack mandatory processed videos into `videos.zip` (done — 36.6 MB, 24 mp4s).
+2. Ensure `.venv/`, full `data/`, large checkpoints, and temporary LaTeX files are not committed.
+3. Push code to a public GitHub repository (done — https://github.com/Parco-28/Intro_to_CV_Project3).
 
 ## Cleanup Notes
 

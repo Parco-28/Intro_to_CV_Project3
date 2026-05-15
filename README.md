@@ -186,7 +186,7 @@ third_party/           # local external repositories (SAM 2, ProPainter)
 
 Before final submission:
 
-1. Replace placeholder authors and GitHub URL in `report/main.tex`.
-2. Pack mandatory demo videos into `videos.zip`.
-3. Do not commit `.venv/`, full `data/`, or large checkpoint caches.
-4. Keep `report/main.pdf`, key comparison PNGs, and clear usage instructions.
+1. Pack mandatory demo videos into `videos.zip` (done — 36.6 MB, 24 mp4s).
+2. Do not commit `.venv/`, full `data/`, or large checkpoint caches.
+3. Keep `report/main.pdf`, key comparison PNGs, and clear usage instructions.
+4. GitHub repo: https://github.com/Parco-28/Intro_to_CV_Project3
